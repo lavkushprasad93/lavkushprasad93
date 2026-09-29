@@ -41,7 +41,6 @@ TF-IDF and multiple classification models.
 
 
 ### 🔐 Secure Data Hiding Using Image Steganography
-
 Secure image-based data hiding system using LSB steganography
 and XOR encryption.
 
@@ -49,7 +48,6 @@ and XOR encryption.
 
 
 ### 🏠 House Price Prediction
-
 Regression-based machine learning application for predicting
 residential property prices using structured datasets.
 
@@ -57,7 +55,6 @@ residential property prices using structured datasets.
 
 
 ### 🌐 Decision Support System
-
 Web-based Decision Support System integrating frontend,
 backend services and machine learning models.
 
