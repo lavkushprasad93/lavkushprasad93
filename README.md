@@ -68,8 +68,8 @@ Image steganography system using LSB-based data hiding and XOR encryption.
 
 ### 📫 Connect With Me
 
-[LinkedIn](YOUR_LINKEDIN_URL) •
-[GitHub](YOUR_GITHUB_URL)
+[LinkedIn](https://www.linkedin.com/in/lavkushprasad27/)•
+[GitHub](https://github.com/lavkushprasad93/lavkushprasad93)
 
 ---
 
