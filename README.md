@@ -39,7 +39,6 @@ YOLO and deep learning.
 Machine-learning based email classification system using ensemble learning,
 TF-IDF and multiple classification models.
 
----
 
 ### 🔐 Secure Data Hiding Using Image Steganography
 
@@ -48,7 +47,6 @@ and XOR encryption.
 
 **Tech:** Python, OpenCV, NumPy, Cryptography Concepts
 
----
 
 ### 🏠 House Price Prediction
 
@@ -57,7 +55,6 @@ residential property prices using structured datasets.
 
 **Tech:** Python, Pandas, NumPy, Scikit-learn, Matplotlib
 
----
 
 ### 🌐 Decision Support System
 
