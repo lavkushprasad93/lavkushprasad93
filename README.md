@@ -2,7 +2,7 @@
 
 ### AI/ML Developer | Computer Vision | Cybersecurity
 
-I'm a 3rd-year B.Tech Computer Science & Engineering (Artificial Intelligence)
+I'm a B.Tech Computer Science & Engineering (Artificial Intelligence)
 student interested in building intelligent systems that solve real-world
 problems across AI/ML and cybersecurity.
 
